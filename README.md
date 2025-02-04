@@ -16,7 +16,7 @@ Candlestick Trainer is a simple flashcard-based training application to help use
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/candlestick-trainer.git
+   git clone https://github.com/ledgerleapllc/candlestick-trainer.git
    cd candlestick-trainer
    ```
 2. Install dependencies:
@@ -47,7 +47,3 @@ python candlestick-trainer.py
 
 ### Contributions
 Feel free to submit issues or contribute improvements via pull requests.
-
-### License
-MIT License
-
