@@ -27,7 +27,7 @@ Candlestick Trainer is a simple flashcard-based training application to help use
 ### Usage
 Run the application using:
 ```sh
-python candlestick_trainer.py
+python candlestick-trainer.py
 ```
 
 ### Requirements
