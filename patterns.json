@@ -1,0 +1,194 @@
+[
+	{
+		"name":"Hammer",
+		"signal":"Bullish",
+		"type":"single",
+		"image":"hammer.png"
+	},
+	{
+		"name":"Inverted Hammer",
+		"signal":"Bullish",
+		"type":"single",
+		"image":"inverted-hammer.png"
+	},
+	{
+		"name":"Dragonfly Doji",
+		"signal":"Bullish",
+		"type":"single",
+		"image":"dragonfly-doji.png"
+	},
+	{
+		"name":"Bullish Spinning Top",
+		"signal":"Bullish",
+		"type":"single",
+		"image":"bullish-spinning-top.png"
+	},
+	{
+		"name":"Bullish Kicker",
+		"signal":"Bullish",
+		"type":"double",
+		"image":"bullish-kicker.png"
+	},
+	{
+		"name":"Bullish Engulfing",
+		"signal":"Bullish",
+		"type":"double",
+		"image":"bullish-engulfing.png"
+	},
+	{
+		"name":"Bullish Harami",
+		"signal":"Bullish",
+		"type":"double",
+		"image":"bullish-harami.png"
+	},
+	{
+		"name":"Piercing Line",
+		"signal":"Bullish",
+		"type":"double",
+		"image":"piercing-line.png"
+	},
+	{
+		"name":"Tweezer Bottom",
+		"signal":"Bullish",
+		"type":"double",
+		"image":"tweezer-bottom.png"
+	},
+	{
+		"name":"Morning Star",
+		"signal":"Bullish",
+		"type":"triple",
+		"image":"moring-star.png"
+	},
+	{
+		"name":"Bullish Abandonded Baby",
+		"signal":"Bullish",
+		"type":"triple",
+		"image":"bullish-abandonded-baby.png"
+	},
+	{
+		"name":"Three White Soldiers",
+		"signal":"Bullish",
+		"type":"triple",
+		"image":"three-white-soldiers.png"
+	},
+	{
+		"name":"Bullish Three Line Strike",
+		"signal":"Bullish",
+		"type":"triple",
+		"image":"bullish-three-line-strike.png"
+	},
+	{
+		"name":"Moring Doji Star",
+		"signal":"Bullish",
+		"type":"triple",
+		"image":"morning-doji-star.png"
+	},
+	{
+		"name":"Three Inside Up",
+		"signal":"Bullish",
+		"type":"confirmation",
+		"image":"three-inside-up.png"
+	},
+	{
+		"name":"Three Outside Up",
+		"signal":"Bullish",
+		"type":"confirmation",
+		"image":"three-outside-up.png"
+	},
+	{
+		"name":"Hanging Man",
+		"signal":"Bearish",
+		"type":"single",
+		"image":"hanging-mane.png"
+	},
+	{
+		"name":"Shooting Star",
+		"signal":"Bearish",
+		"type":"single",
+		"image":"shooting-star.png"
+	},
+	{
+		"name":"Gravestone Doji",
+		"signal":"Bearish",
+		"type":"single",
+		"image":"gravestone-doji.png"
+	},
+	{
+		"name":"Bearish Spinning Top",
+		"signal":"Bearish",
+		"type":"single",
+		"image":"bearish-spinning-top.png"
+	},
+	{
+		"name":"Bearish Kicker",
+		"signal":"Bearish",
+		"type":"double",
+		"image":"bearish-kicker.png"
+	},
+	{
+		"name":"Bearish Engulfing",
+		"signal":"Bearish",
+		"type":"double",
+		"image":"bearish-engulfing.png"
+	},
+	{
+		"name":"Bearish Harami",
+		"signal":"Bearish",
+		"type":"double",
+		"image":"bearish-harami.png"
+	},
+	{
+		"name":"Dark Cloud Line",
+		"signal":"Bearish",
+		"type":"double",
+		"image":"dark-cloud-line.png"
+	},
+	{
+		"name":"Tweezer Top",
+		"signal":"Bearish",
+		"type":"double",
+		"image":"tweezer-top.png"
+	},
+	{
+		"name":"Evening Star",
+		"signal":"Bearish",
+		"type":"triple",
+		"image":"evening-star.png"
+	},
+	{
+		"name":"Bearish Abandonded Baby",
+		"signal":"Bearish",
+		"type":"triple",
+		"image":"bearing-abandoned-baby.png"
+	},
+	{
+		"name":"Three Black Crows",
+		"signal":"Bearish",
+		"type":"triple",
+		"image":"three-black-crows.png"
+	},
+	{
+		"name":"Bearish Three Line Strike",
+		"signal":"Bearish",
+		"type":"triple",
+		"image":"bearish-three-line-strike.png"
+	},
+	{
+		"name":"Evening Doji Star",
+		"signal":"Bearish",
+		"type":"triple",
+		"image":"evening-doji-star.png"
+	},
+	{
+		"name":"Three Inside Down",
+		"signal":"Bearish",
+		"type":"confirmation",
+		"image":"three-inside-down.png"
+	},
+	{
+		"name":"Three Outside Down",
+		"signal":"Bearish",
+		"type":"confirmation",
+		"image":"three-outside-down.png"
+	}
+]
